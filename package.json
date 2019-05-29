@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "ip2d": "^1.0.5",
-    "yargs": "^13.2.4"
+    "ip2d": "^1.0.5"
   }
 }
