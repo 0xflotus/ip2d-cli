@@ -1,9 +1,19 @@
 {
   "name": "ip2d-cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "0xflotus"
+  },
   "dependencies": {
     "ip2d": "^1.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xflotus/ip2d-cli.git"
+  },
+  "keywords": [
+    "ip2d"
+  ]
 }
